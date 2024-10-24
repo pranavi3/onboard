@@ -1,0 +1,1 @@
+Encrypt the passwords before saving in DB
